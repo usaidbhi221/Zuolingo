@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Graduation Cap Mortarboard -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M54,23 L75,31 L54,39 L33,31 Z" />
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M43,36 L43,42 Q54,47 65,42 L65,36 Q54,41 43,36 Z" />
+    <!-- Tassel -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M68,34 L73,43 L76,43 L71,34 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M72,42 A3,3 0 1 0 76,42 A3,3 0 1 0 72,42 Z" />
+
+    <!-- Owl Head & Body Silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,42 C30,48 29,64 33,74 C37,84 46,87 54,87 C62,87 71,84 75,74 C79,64 78,48 71,42 C67,46 61,46 54,46 C47,46 41,46 37,42 Z" />
+
+    <!-- Feather Tummy / Chest Accent -->
+    <path
+        android:fillColor="#DCFCE7"
+        android:pathData="M42,65 Q54,60 66,65 Q64,81 54,82 Q44,81 42,65 Z" />
+
+    <!-- Eyes Outlines / Eye Rings -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M35,46 A9,9 0 1 0 53,46 A9,9 0 1 0 35,46 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M55,46 A9,9 0 1 0 73,46 A9,9 0 1 0 55,46 Z" />
+
+    <!-- Eye Whites -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,46 A7,7 0 1 0 51,46 A7,7 0 1 0 37,46 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M57,46 A7,7 0 1 0 71,46 A7,7 0 1 0 57,46 Z" />
+
+    <!-- Eye Pupils (Deep Emerald) -->
+    <path
+        android:fillColor="#065F46"
+        android:pathData="M42,46 A4,4 0 1 0 50,46 A4,4 0 1 0 42,46 Z" />
+    <path
+        android:fillColor="#065F46"
+        android:pathData="M58,46 A4,4 0 1 0 66,46 A4,4 0 1 0 58,46 Z" />
+
+    <!-- Pupil Sparkles -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,44 A1.5,1.5 0 1 0 47,44 A1.5,1.5 0 1 0 44,44 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,44 A1.5,1.5 0 1 0 63,44 A1.5,1.5 0 1 0 60,44 Z" />
+
+    <!-- Cute Beak -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M51,51 L57,51 L54,58 Z" />
+
+    <!-- Open Book / Tablet with Arabic Symbol -->
+    <path
+        android:fillColor="#FEF3C7"
+        android:pathData="M38,72 L52,70 L52,83 L38,81 Z" />
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M56,70 L70,72 L70,81 L56,83 Z" />
+    <!-- Book spine / gold emblem -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M52,69 L56,69 L56,84 L52,84 Z" />
+    <!-- Arabic Calligraphy Accent on Book (Alif / Nuqta) -->
+    <path
+        android:fillColor="#B45309"
+        android:pathData="M44,74 L46,74 L46,79 L44,79 Z" />
+    <path
+        android:fillColor="#B45309"
+        android:pathData="M62,75 A1.2,1.2 0 1 0 64.4,75 A1.2,1.2 0 1 0 62,75 Z" />
+</vector>

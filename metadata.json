@@ -1,0 +1,8 @@
+{
+  "name": "Remix Zuolingo",
+  "description": "Gamified Arabic learning app featuring AI tutoring, interactive sentence-building quizzes, streak rewards, and customizable professional themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
